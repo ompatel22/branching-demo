@@ -1,1 +1,1 @@
-This is 1.txt of master
+This is 1.txt of new-branch
